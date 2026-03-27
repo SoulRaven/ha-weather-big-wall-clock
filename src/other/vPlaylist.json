@@ -167,8 +167,22 @@
     "night": []
   },
   "very_heavy_rain": {
-    "day": [],
-    "night": []
+    "day": [
+      "very_heavy_rain-day-01.mp4",
+      "very_heavy_rain-day-02.mp4",
+      "very_heavy_rain-day-03.mp4",
+      "very_heavy_rain-day-04.mp4",
+      "very_heavy_rain-day-05.mp4",
+      "very_heavy_rain-day-06.mp4",
+      "very_heavy_rain-day-07.mp4"
+    ],
+    "night": [
+      "very_heavy_rain-night-01.mp4",
+      "very_heavy_rain-night-02.mp4",
+      "very_heavy_rain-night-03.mp4",
+      "very_heavy_rain-night-04.mp4",
+      "very_heavy_rain-night-05.mp4"
+    ]
   },
   "extreme_rain": {
     "day": [],
