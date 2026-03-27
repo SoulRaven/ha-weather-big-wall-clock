@@ -8,6 +8,12 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+
+### [1.0.5] - 2026-03-27
+
+- Fixed the missing alert icon for rain.
+- small fixed on the css alignment of the alerts
+
 ## [1.0.4] - 2026-03-11
 
 ### Fixed

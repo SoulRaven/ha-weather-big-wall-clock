@@ -179,6 +179,9 @@ export class IconManager extends EventBusMixin() {
 			case 6:
 				iconName = 'ice';
 				break;
+			case 10:
+				iconName = 'rain';
+				break;
 		}
 
 		let icon = iconsLevel[iconName];

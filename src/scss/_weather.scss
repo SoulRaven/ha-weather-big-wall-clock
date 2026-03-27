@@ -106,13 +106,20 @@
     .alert-item {
       border-radius: 8px;
       background: rgba(0, 0, 0, .2);
-      padding: 10px;
-      margin-bottom: 5px;
+      padding: 10px 10px 0 10px;
 
       .weather-alert-header {
         display: flex;
         align-items: center;
         gap: 12px;
+
+        .alert-header-content {
+          display: flex;
+          flex-direction: column;
+          flex-grow: 1;
+          align-self: baseline;
+          gap: 5px;
+        }
 
         .icon-container {
           padding: 8px;

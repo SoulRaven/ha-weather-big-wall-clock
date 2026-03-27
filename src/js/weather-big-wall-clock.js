@@ -696,21 +696,22 @@ export class WallClockVideo extends EventBusMixin(LitElement) {
 						<div class="icon-container">
 							<img class="weather-alerts-icons" src="${iconAlertPath}" alt="${alert.description}"/>
 						</div>
-						<div class="time-row">
-							<div class="time-text">
-								<span>${alert.start}</span>
-								<ha-icon icon="mdi:arrow-right-thin" class="arrow"></ha-icon>
-								<span>${alert.end}</span>
+						<div class="alert-header-content">
+							<div class="time-row">
+								<div class="time-text">
+									<span>${alert.start}</span>
+									<ha-icon icon="mdi:arrow-right-thin" class="arrow"></ha-icon>
+									<span>${alert.end}</span>
+								</div>
+							</div>
+							<div class="weather-alert-tags-row">
+								${alert.tags.map(tag => html`<span class="tag-badge">${tag}</span>`)}
 							</div>
 						</div>
 					</div>
 
 					<div class="weather-alert-description">
 						${alert.description}
-					</div>
-
-					<div class="weather-alert-tags-row">
-						${alert.tags.map(tag => html`<span class="tag-badge">${tag}</span>`)}
 					</div>
 				</div>
 			`;
