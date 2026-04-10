@@ -37,7 +37,24 @@
   },
   "extreme_rain": {},
   "freezing_rain": {},
-  "light_intensity_shower_rain": {},
+  "light_intensity_shower_rain": {
+    "day": [
+      "light_intensity_shower_rain-day-01.jpg",
+      "light_intensity_shower_rain-day-02.jpg",
+      "light_intensity_shower_rain-day-03.jpg",
+      "light_intensity_shower_rain-day-04.jpg",
+      "light_intensity_shower_rain-day-05.jpg",
+      "light_intensity_shower_rain-day-06.jpg"
+    ],
+    "night": [
+      "light_intensity_shower_rain-night-01.jpg",
+      "light_intensity_shower_rain-night-02.jpg",
+      "light_intensity_shower_rain-night-03.jpg",
+      "light_intensity_shower_rain-night-04.jpg",
+      "light_intensity_shower_rain-night-05.jpg",
+      "light_intensity_shower_rain-night-06.jpg"
+    ]
+  },
   "shower_rain": {},
   "heavy_intensity_shower_rain": {},
   "ragged_shower_rain": {},

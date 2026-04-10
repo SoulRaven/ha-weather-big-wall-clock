@@ -8,6 +8,9 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+### [1.0.7] 2026-03-27
+- add new images and video for "light intensity shower rain"
+
 ### [1.0.6] 2026-03-27
 
 - add new images and video for heavy rain

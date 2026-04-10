@@ -193,8 +193,22 @@
     "night": []
   },
   "light_intensity_shower_rain": {
-    "day": [],
-    "night": []
+    "day": [
+      "light_intensity_shower_rain-day-01.mp4",
+      "light_intensity_shower_rain-day-02.mp4",
+      "light_intensity_shower_rain-day-03.mp4",
+      "light_intensity_shower_rain-day-04.mp4",
+      "light_intensity_shower_rain-day-05.mp4",
+      "light_intensity_shower_rain-day-06.mp4"
+    ],
+    "night": [
+      "light_intensity_shower_rain-night-01.mp4",
+      "light_intensity_shower_rain-night-02.mp4",
+      "light_intensity_shower_rain-night-03.mp4",
+      "light_intensity_shower_rain-night-04.mp4",
+      "light_intensity_shower_rain-night-05.mp4",
+      "light_intensity_shower_rain-night-06.mp4"
+    ]
   },
   "shower_rain": {
     "day": [
