@@ -176,6 +176,7 @@ export class IconManager extends EventBusMixin() {
 			case 4:
 				break;
 			case 5:
+				iconName = 'generic'; // thunderstorm
 				break;
 			case 6:
 				iconName = 'ice';

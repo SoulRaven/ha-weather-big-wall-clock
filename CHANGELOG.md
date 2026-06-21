@@ -8,6 +8,9 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+### [1.0.9] 2026-06-21
+- add generic alert icon for heat wave.
+
 ### [1.0.8] 2026-05-08
 - add "thunderstorm" alert icon
 

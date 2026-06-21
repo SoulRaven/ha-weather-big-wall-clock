@@ -1,6 +1,6 @@
 {
   "name": "ha-weather-big-wall-clock",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Home Assistant Weather Clock Card with video backgrounds",
   "author": "SoulRaven",
   "license": "SEE LICENSE IN LICENSE",
